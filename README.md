@@ -1,4 +1,4 @@
-<h1>Projeto Sistema de agendameto para oficinas</h1>
+<h1>Sistema de agendameto para oficinas</h1>
 <p>Nossa oficina apresenta um problema em relação a logística de atendimento, o que ocasiona espera em filas e acaba muitas vezes incomodando nossos clientes, esse problema também faz em alguns casos com que perdemos clientes.</p>
 
 
