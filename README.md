@@ -1,3 +1,7 @@
+<h1>Projeto Sistema de agendameto para oficinas</h1>
+<p>Nossa oficina apresenta um problema em relação a logística de atendimento, o que ocasiona espera em filas e acaba muitas vezes incomodando nossos clientes, esse problema também faz em alguns casos com que perdemos clientes.</p>
+
+
 <h2>Requisitos funcionais para os clientes:</h2>
   <p>Tela para o cliente efetuar um cadastro, onde o cliente informara o seu nome, endereço, contato e informações dos veículos.</p>
   <p>O cliente não poderá acessar o sistema de agendamento sem criar seu login.</p>
