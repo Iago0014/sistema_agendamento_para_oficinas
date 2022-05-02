@@ -25,10 +25,10 @@
   <p>Sistema web criado em Python, Html, Css, Bootstrap, Javascript.</p>
   <p>O sistema deve ser intuitivo. </p>
   
-<h2> Regras de negócio : <h2>
-  <p> O sistema é feito para agilizar e facilitar a logística da empresa evitando filas e maiores dores de cabeça na hora do atendimento. </p>
-  <p> E como funciona ? </p>
-  <p> De forma simples e fácil o usuário agenda sua manutenção pelo site da TOP Elétrica informando o tipo de manutenção, data e horário.</p>
-  <p> Após receber essas informações o sistema irá gravar em seu banco de dados e vai bloquear a manutenção que foi escolhida naquele horário.</p>
-  <p> Tendo feito isso o sistema deve enviar um email para a oficina informando data horário e tipo de manutenção que foi agendada</p>
-  <p> Na interface da oficina o sistema também informará os horários e manutenções de cada dia</p> 
+<h2> Regras de negócio : </h2>
+  <p>O sistema é feito para agilizar e facilitar a logística da empresa evitando filas e maiores dores de cabeça na hora do atendimento. </p>
+  <p>E como funciona ? </p>
+  <p>De forma simples e fácil o usuário agenda sua manutenção pelo site da TOP Elétrica informando o tipo de manutenção, data e horário.</p>
+  <p>Após receber essas informações o sistema irá gravar em seu banco de dados e vai bloquear a manutenção que foi escolhida naquele horário.</p>
+  <p>Tendo feito isso o sistema deve enviar um email para a oficina informando data horário e tipo de manutenção que foi agendada</p>
+  <p>Na interface da oficina o sistema também informará os horários e manutenções de cada dia</p> 
