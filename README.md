@@ -25,7 +25,7 @@
   <p>Sistema web criado em Python, Html, Css, Bootstrap, Javascript.</p>
   <p>O sistema deve ser intuitivo. </p>
   
-<h2> Regras de negócio : </h2>
+<h2> Regras de negócios : </h2>
   <p>O sistema é feito para agilizar e facilitar a logística da empresa evitando filas e maiores dores de cabeça na hora do atendimento. </p>
   <p>E como funciona ? </p>
   <p>De forma simples e fácil o usuário agenda sua manutenção pelo site da TOP Elétrica informando o tipo de manutenção, data e horário.</p>
