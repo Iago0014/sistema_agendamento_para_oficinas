@@ -38,21 +38,20 @@
 ![UseCaseDiagram1](https://user-images.githubusercontent.com/96276519/166841427-7e538263-c5ac-4d08-af4d-f1a62bf144d9.png)
 
 <h2> Criar Login: </h2> 
-  O cliente poderá criar seu registro de usuário para poder usar os recursos do sistema. 
-  O Mecânico Administrador poderá criar seu registro de usuário, para gerenciar sua agenda como os usuários dos clientes. 
+  <p> O cliente poderá criar seu registro de usuário para poder usar os recursos do sistema. O Mecânico Administrador poderá criar seu registro de usuário, para      gerenciar sua agenda como os usuários dos clientes. </p> 
 
 <h2> Agendamento da ordem de serviço: </h2>
-  O cliente poderá agendar sua consulta ao mecânico.
+  <p> O cliente poderá agendar sua consulta ao mecânico. </p>
 
 <h2> Cancelar Agendamento: </h2>
-  Nessa tela o cliente poderá cancelar o serviço, e o mecânico administrador também poderá cancelar a ordem de serviço.
+  <p> Nessa tela o cliente poderá cancelar o serviço, e o mecânico administrador também poderá cancelar a ordem de serviço. </p>
 
 <h2> Acompanhamento da Ordem de Serviço: </h2> 
-  O Cliente poderá acompanhar a situação do serviço solicitado, e o mecânico administrador, poderá reportar ao cliente a situação     do trabalho solicitado.
+  <p> O Cliente poderá acompanhar a situação do serviço solicitado, e o mecânico administrador, poderá reportar ao cliente a situação do trabalho solicitado. </p>
 
 <h2> Filtrar ordem de serviço por Data e Categoria: </h2> 
-  O mecânico administrador poderá ordenar as ordens de serviços, por data, categoria e urgência das chamadas. 
+  <p> O mecânico administrador poderá ordenar as ordens de serviços, por data, categoria e urgência das chamadas. </p>
 
 <h2> Criar Relatório Final: </h2>
-  Mecânico administrador poderá criar um relatório sobre as ordens de serviços da semana, mês ou ano.
+  <p> Mecânico administrador poderá criar um relatório sobre as ordens de serviços da semana, mês ou ano. </p>
 
