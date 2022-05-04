@@ -35,23 +35,19 @@
   
  <h2> Diagrama de Caso de Uso</h2>
  
-![UseCaseDiagram1](https://user-images.githubusercontent.com/96276519/166841427-7e538263-c5ac-4d08-af4d-f1a62bf144d9.png)
+![diagramaCU](https://user-images.githubusercontent.com/96276519/166842558-6d899bf1-9665-4e54-bf24-cea2e42ea100.PNG)
 
-<h2> Criar Login: </h2> 
-  <p> O cliente poderá criar seu registro de usuário para poder usar os recursos do sistema. O Mecânico Administrador poderá criar seu registro de usuário, para      gerenciar sua agenda como os usuários dos clientes. </p> 
 
-<h2> Agendamento da ordem de serviço: </h2>
-  <p> O cliente poderá agendar sua consulta ao mecânico. </p>
+<b>Criar Login:</b><p> O cliente poderá criar seu registro de usuário para poder usar os recursos do sistema. O Mecânico Administrador poderá criar seu registro de usuário, para gerenciar sua agenda como os usuários dos clientes. </p> 
 
-<h2> Cancelar Agendamento: </h2>
-  <p> Nessa tela o cliente poderá cancelar o serviço, e o mecânico administrador também poderá cancelar a ordem de serviço. </p>
+<b> Agendamento da ordem de serviço: </b><p> O cliente poderá agendar sua consulta ao mecânico. </p>
+
+<b>Cancelar Agendamento: </b><p> Nessa tela o cliente poderá cancelar o serviço, e o mecânico administrador também poderá cancelar a ordem de serviço. </p>
 
 <h2> Acompanhamento da Ordem de Serviço: </h2> 
   <p> O Cliente poderá acompanhar a situação do serviço solicitado, e o mecânico administrador, poderá reportar ao cliente a situação do trabalho solicitado. </p>
 
-<h2> Filtrar ordem de serviço por Data e Categoria: </h2> 
-  <p> O mecânico administrador poderá ordenar as ordens de serviços, por data, categoria e urgência das chamadas. </p>
+<b> Filtrar ordem de serviço por Data e Categoria: </b> <p> O mecânico administrador poderá ordenar as ordens de serviços, por data, categoria e urgência das chamadas.</p>
 
-<h2> Criar Relatório Final: </h2>
-  <p> Mecânico administrador poderá criar um relatório sobre as ordens de serviços da semana, mês ou ano. </p>
+<b> Criar Relatório Final: </b><p> Mecânico administrador poderá criar um relatório sobre as ordens de serviços da semana, mês ou ano. </p>
 
