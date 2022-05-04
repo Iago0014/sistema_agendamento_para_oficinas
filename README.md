@@ -31,4 +31,28 @@
   <p>De forma simples e fácil o usuário agenda sua manutenção pelo site da TOP Elétrica informando o tipo de manutenção, data e horário.</p>
   <p>Após receber essas informações o sistema irá gravar em seu banco de dados e vai bloquear a manutenção que foi escolhida naquele horário.</p>
   <p>Tendo feito isso o sistema deve enviar um email para a oficina informando data horário e tipo de manutenção que foi agendada.</p>
-  <p>Na interface da oficina o sistema também informará os horários e manutenções de cada dia.</p> 
+  <p>Na interface da oficina o sistema também informará os horários e manutenções de cada dia.</p>
+  
+ <h2> Diagrama de Caso de Uso</h2>
+ 
+![UseCaseDiagram1](https://user-images.githubusercontent.com/96276519/166841427-7e538263-c5ac-4d08-af4d-f1a62bf144d9.png)
+
+<h2> Criar Login: </h2> 
+  O cliente poderá criar seu registro de usuário para poder usar os recursos do sistema. 
+  O Mecânico Administrador poderá criar seu registro de usuário, para gerenciar sua agenda como os usuários dos clientes. 
+
+<h2> Agendamento da ordem de serviço: </h2>
+  O cliente poderá agendar sua consulta ao mecânico.
+
+<h2> Cancelar Agendamento: </h2>
+  Nessa tela o cliente poderá cancelar o serviço, e o mecânico administrador também poderá cancelar a ordem de serviço.
+
+<h2> Acompanhamento da Ordem de Serviço: </h2> 
+  O Cliente poderá acompanhar a situação do serviço solicitado, e o mecânico administrador, poderá reportar ao cliente a situação     do trabalho solicitado.
+
+<h2> Filtrar ordem de serviço por Data e Categoria: </h2> 
+  O mecânico administrador poderá ordenar as ordens de serviços, por data, categoria e urgência das chamadas. 
+
+<h2> Criar Relatório Final: </h2>
+  Mecânico administrador poderá criar um relatório sobre as ordens de serviços da semana, mês ou ano.
+
