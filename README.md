@@ -51,3 +51,7 @@
 
 <b> Criar Relatório Final: </b><text> Mecânico administrador poderá criar um relatório sobre as ordens de serviços da semana, mês ou ano. </text>
 
+<h2>Diagrama de atividade</h2>
+
+![ActivityDiagram1](https://user-images.githubusercontent.com/100955133/167507781-3dd5ec0e-a1a3-48f5-8811-67d9f6b0d610.png)
+
